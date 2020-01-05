@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Bonn Fire at Maracas Bay
-date: 2016-12-17T15:04:10.000Z
+date: 2020-01-03T00:24:13.909Z
 description: 'Nice vibes, good people and lots of fun. '
 featuredpost: true
 featuredimage: /img/20170520_192436_012.jpg
