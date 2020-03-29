@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Coffee
-image: /img/harely.gif
+image: /img/ace-marco.jpg
 heading: 'Great websites '
 description: >-
   It is a long established fact that a reader will be distracted by the readable
