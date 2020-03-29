@@ -14,3 +14,5 @@ tags:
 ## A little history
 
 A friend of mine was headed to china for 2 years, so we had a lime at Harry's water park to say good bye.
+
+![Water Slide](/img/img-20190113-wa0043.jpg "Water Slide")
